@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f5432"/>
+      <stop offset="100%" style="stop-color:#0f2d1a"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0e0a0"/>
+      <stop offset="100%" style="stop-color:#d4af37"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg2)"/>
+  <!-- Three gift boxes -->
+  <!-- Box 1 (left) -->
+  <rect x="40" y="230" width="100" height="110" rx="6" fill="#2a6040" stroke="#d4af37" stroke-width="1.5"/>
+  <rect x="34" y="216" width="112" height="28" rx="4" fill="#1f5432" stroke="#d4af37" stroke-width="1.5"/>
+  <rect x="87" y="216" width="12" height="124" fill="url(#g2)" opacity="0.8"/>
+  <rect x="34" y="224" width="112" height="12" fill="url(#g2)" opacity="0.8"/>
+  <ellipse cx="80" cy="208" rx="18" ry="12" transform="rotate(-25 80 208)" fill="url(#g2)" opacity="0.8"/>
+  <ellipse cx="102" cy="208" rx="18" ry="12" transform="rotate(25 102 208)" fill="url(#g2)" opacity="0.8"/>
+  <circle cx="91" cy="211" r="8" fill="#d4af37"/>
+  <!-- Box 2 (center) -->
+  <rect x="150" y="200" width="100" height="145" rx="6" fill="#1a472a" stroke="#d4af37" stroke-width="2"/>
+  <rect x="143" y="183" width="114" height="32" rx="5" fill="#1f5432" stroke="#d4af37" stroke-width="2"/>
+  <rect x="196" y="183" width="14" height="162" fill="url(#g2)" opacity="0.85"/>
+  <rect x="143" y="192" width="114" height="14" fill="url(#g2)" opacity="0.85"/>
+  <ellipse cx="189" cy="173" rx="22" ry="14" transform="rotate(-28 189 173)" fill="url(#g2)" opacity="0.85"/>
+  <ellipse cx="213" cy="173" rx="22" ry="14" transform="rotate(28 213 173)" fill="url(#g2)" opacity="0.85"/>
+  <circle cx="201" cy="177" r="10" fill="#d4af37"/>
+  <!-- Box 3 (right) -->
+  <rect x="260" y="240" width="100" height="100" rx="6" fill="#2a6040" stroke="#d4af37" stroke-width="1.5"/>
+  <rect x="254" y="226" width="112" height="28" rx="4" fill="#1f5432" stroke="#d4af37" stroke-width="1.5"/>
+  <rect x="307" y="226" width="12" height="114" fill="url(#g2)" opacity="0.8"/>
+  <rect x="254" y="234" width="112" height="12" fill="url(#g2)" opacity="0.8"/>
+  <ellipse cx="300" cy="218" rx="18" ry="12" transform="rotate(-25 300 218)" fill="url(#g2)" opacity="0.8"/>
+  <ellipse cx="322" cy="218" rx="18" ry="12" transform="rotate(25 322 218)" fill="url(#g2)" opacity="0.8"/>
+  <circle cx="311" cy="221" r="8" fill="#d4af37"/>
+  <!-- hearts -->
+  <text x="140" y="120" font-size="32" fill="#d4af37" opacity="0.25">♥</text>
+  <text x="230" y="100" font-size="24" fill="#d4af37" opacity="0.2">♥</text>
+  <text x="280" y="140" font-size="20" fill="#d4af37" opacity="0.2">♥</text>
+  <text x="80" y="150" font-size="18" fill="#d4af37" opacity="0.2">♥</text>
+  <text x="200" y="390" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#d4af37" letter-spacing="2">WEDDING RETURN GIFTS</text>
+</svg>

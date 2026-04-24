@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+  <!-- Customised Gift Icon: gift with star/sparkle -->
+  <circle cx="36" cy="36" r="35" fill="#1f5432" stroke="#d4af37" stroke-width="1.5" opacity="0.6"/>
+  <!-- Gift box -->
+  <rect x="20" y="36" width="32" height="22" rx="3" fill="#d4af37" opacity="0.75"/>
+  <rect x="17" y="30" width="38" height="9" rx="3" fill="#d4af37" opacity="0.9"/>
+  <line x1="36" y1="30" x2="36" y2="58" stroke="#1f5432" stroke-width="2.5"/>
+  <line x1="17" y1="35" x2="55" y2="35" stroke="#1f5432" stroke-width="2.5"/>
+  <!-- Sparkle star bow on top -->
+  <line x1="36" y1="18" x2="36" y2="30" stroke="#d4af37" stroke-width="2.5"/>
+  <line x1="30" y1="22" x2="42" y2="26" stroke="#d4af37" stroke-width="2.5"/>
+  <line x1="42" y1="22" x2="30" y2="26" stroke="#d4af37" stroke-width="2.5"/>
+  <circle cx="36" cy="24" r="4" fill="#d4af37"/>
+  <!-- Small stars -->
+  <circle cx="24" cy="20" r="2" fill="#d4af37" opacity="0.6"/>
+  <circle cx="49" cy="18" r="2.5" fill="#d4af37" opacity="0.5"/>
+  <circle cx="52" cy="28" r="1.5" fill="#d4af37" opacity="0.5"/>
+  <circle cx="20" cy="28" r="1.5" fill="#d4af37" opacity="0.5"/>
+</svg>

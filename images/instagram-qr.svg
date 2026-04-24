@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="qr-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f5432"/>
+      <stop offset="100%" style="stop-color:#1a472a"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#qr-bg)" rx="10"/>
+  <!-- QR Code decorative pattern -->
+  <!-- Top-left position marker -->
+  <rect x="15" y="15" width="50" height="50" rx="4" fill="none" stroke="#d4af37" stroke-width="4"/>
+  <rect x="24" y="24" width="32" height="32" rx="2" fill="#d4af37" opacity="0.7"/>
+  <rect x="30" y="30" width="20" height="20" rx="1" fill="#d4af37"/>
+  <!-- Top-right position marker -->
+  <rect x="135" y="15" width="50" height="50" rx="4" fill="none" stroke="#d4af37" stroke-width="4"/>
+  <rect x="144" y="24" width="32" height="32" rx="2" fill="#d4af37" opacity="0.7"/>
+  <rect x="150" y="30" width="20" height="20" rx="1" fill="#d4af37"/>
+  <!-- Bottom-left position marker -->
+  <rect x="15" y="135" width="50" height="50" rx="4" fill="none" stroke="#d4af37" stroke-width="4"/>
+  <rect x="24" y="144" width="32" height="32" rx="2" fill="#d4af37" opacity="0.7"/>
+  <rect x="30" y="150" width="20" height="20" rx="1" fill="#d4af37"/>
+  <!-- QR data modules (decorative pattern) -->
+  <!-- Row of small squares mimicking QR data -->
+  <rect x="80" y="15" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="92" y="15" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="104" y="15" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="116" y="15" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="80" y="27" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="98" y="27" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="116" y="27" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="86" y="39" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="104" y="39" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="80" y="51" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="92" y="51" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="110" y="51" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <!-- Middle area data -->
+  <rect x="15" y="80" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="27" y="80" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="15" y="92" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="39" y="92" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="51" y="80" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="51" y="92" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <!-- Central Instagram logo area -->
+  <rect x="76" y="76" width="48" height="48" rx="8" fill="#1a472a" stroke="#d4af37" stroke-width="1.5"/>
+  <rect x="83" y="83" width="34" height="34" rx="6" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <circle cx="100" cy="100" r="9" fill="none" stroke="#d4af37" stroke-width="2"/>
+  <circle cx="112" cy="88" r="3" fill="#d4af37"/>
+  <!-- Right side data -->
+  <rect x="135" y="80" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="147" y="80" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="159" y="80" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="171" y="80" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="135" y="92" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="159" y="92" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="183" y="80" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="147" y="92" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="171" y="92" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <!-- Bottom area data modules -->
+  <rect x="80" y="135" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="92" y="135" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="110" y="135" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="80" y="147" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="98" y="147" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="116" y="147" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="86" y="159" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="104" y="159" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="116" y="171" width="6" height="6" fill="#d4af37" opacity="0.5"/>
+  <rect x="92" y="171" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="80" y="171" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="135" y="135" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="159" y="135" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="183" y="135" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="147" y="147" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="171" y="147" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="135" y="159" width="6" height="6" fill="#d4af37" opacity="0.8"/>
+  <rect x="159" y="159" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="183" y="159" width="6" height="6" fill="#d4af37" opacity="0.7"/>
+  <rect x="147" y="171" width="6" height="6" fill="#d4af37" opacity="0.6"/>
+  <rect x="171" y="171" width="6" height="6" fill="#d4af37" opacity="0.5"/>
+  <!-- Scan text -->
+  <text x="100" y="193" text-anchor="middle" font-family="'Montserrat',sans-serif" font-size="8" fill="#d4af37" opacity="0.7" letter-spacing="1">SCAN TO FOLLOW</text>
+</svg>

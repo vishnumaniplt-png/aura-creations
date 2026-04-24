@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a472a"/>
+      <stop offset="100%" style="stop-color:#0f2d1a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8cc6a"/>
+      <stop offset="100%" style="stop-color:#d4af37"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <!-- Gift box body -->
+  <rect x="100" y="200" width="200" height="140" rx="8" fill="#2a6040" stroke="#d4af37" stroke-width="2"/>
+  <!-- Gift box lid -->
+  <rect x="88" y="180" width="224" height="40" rx="6" fill="#1f5432" stroke="#d4af37" stroke-width="2"/>
+  <!-- Vertical ribbon -->
+  <rect x="190" y="180" width="20" height="160" fill="url(#gold)" opacity="0.9"/>
+  <!-- Horizontal ribbon on lid -->
+  <rect x="88" y="192" width="224" height="16" fill="url(#gold)" opacity="0.9"/>
+  <!-- Bow left loop -->
+  <ellipse cx="178" cy="170" rx="28" ry="18" transform="rotate(-30 178 170)" fill="url(#gold)" opacity="0.85"/>
+  <!-- Bow right loop -->
+  <ellipse cx="222" cy="170" rx="28" ry="18" transform="rotate(30 222 170)" fill="url(#gold)" opacity="0.85"/>
+  <!-- Bow center knot -->
+  <circle cx="200" cy="175" r="12" fill="#d4af37"/>
+  <!-- Stars -->
+  <text x="130" y="270" font-size="22" fill="#d4af37" opacity="0.6">✦</text>
+  <text x="240" y="295" font-size="18" fill="#d4af37" opacity="0.5">✦</text>
+  <text x="155" y="315" font-size="14" fill="#d4af37" opacity="0.4">✦</text>
+  <!-- Label -->
+  <text x="200" y="360" text-anchor="middle" font-family="Georgia,serif" font-size="15" fill="#d4af37" letter-spacing="2">LUXURY HAMPER</text>
+  <!-- Top decorative dots -->
+  <text x="200" y="80" text-anchor="middle" font-size="48" fill="#d4af37" opacity="0.15">❧</text>
+</svg>
