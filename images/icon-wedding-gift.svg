@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" width="72" height="72">
+  <!-- Wedding Gift Icon: gift with hearts -->
+  <circle cx="36" cy="36" r="35" fill="#1f5432" stroke="#d4af37" stroke-width="1.5" opacity="0.6"/>
+  <!-- Gift box -->
+  <rect x="20" y="36" width="32" height="22" rx="3" fill="#d4af37" opacity="0.75"/>
+  <rect x="17" y="30" width="38" height="10" rx="3" fill="#d4af37" opacity="0.9"/>
+  <line x1="36" y1="30" x2="36" y2="58" stroke="#1f5432" stroke-width="2.5"/>
+  <line x1="17" y1="35" x2="55" y2="35" stroke="#1f5432" stroke-width="2.5"/>
+  <!-- Two hearts on top (bow) -->
+  <path d="M30,28 Q30,22 36,22 Q42,22 42,28 Q42,34 36,38 Q30,34 30,28Z" fill="#1f5432"/>
+  <circle cx="32" cy="26" r="5" fill="#d4af37" opacity="0.9"/>
+  <circle cx="40" cy="26" r="5" fill="#d4af37" opacity="0.9"/>
+  <path d="M27,25 Q27,20 32,20 Q36,20 36,25 Q36,30 32,33 Q27,30 27,25" fill="#d4af37" opacity="0.9"/>
+  <path d="M45,25 Q45,20 40,20 Q36,20 36,25 Q36,30 40,33 Q45,30 45,25" fill="#d4af37" opacity="0.9"/>
+  <circle cx="36" cy="28" r="3.5" fill="#d4af37"/>
+</svg>
